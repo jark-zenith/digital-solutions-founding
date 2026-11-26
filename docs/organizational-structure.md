@@ -1,9 +1,9 @@
 # Organizational Structure & Leadership
 **Status:** Proposed structure · Subject to candidate evaluation and founding approval
 
-## 1. Initial leadership
-**Original Founder / proposed CEO — Pruden Jack Gideon**  
-Coordinates the formation process, communicates the initial vision, facilitates strategic discussion and oversees early priorities. This is a proposed role for the founding stage, not a statement of an already appointed statutory director or officer.
+## 1. Founder and interim leadership
+**Founder — Pruden Jack Gideon**  
+Pruden is currently holding the CEO role on an interim basis during the formation stage and is coordinating the initial vision, formation process and early priorities. This is a temporary arrangement, not a permanent leadership appointment. The founders will discuss and agree each leadership position, responsibilities and decision-making arrangements during their initial meetings. No other leadership appointments are implied by this draft.
 
 ## 2. Proposed functions
 | Function | Main responsibilities | Example outputs |

@@ -5,7 +5,7 @@
 > This document outlines matters the founding candidates should negotiate. It does not create a partnership, employment relationship, directorship, shareholding or binding promise of equity. Obtain advice from a qualified Kenyan advocate and accountant before signing final documents or incorporating.
 
 ## 1. Founding intent
-The participants intend to explore forming a hybrid digital solutions and technology business. Pruden Jack Gideon is the original initiator and proposed initial CEO for the formation process. The final governance structure is subject to agreement and applicable law.
+The participants intend to explore forming a hybrid digital solutions and technology business. Pruden Jack Gideon is the founder and is currently holding the CEO role on an interim basis during the formation process. This temporary arrangement does not determine the permanent leadership structure. The founders will discuss and agree leadership positions, responsibilities and decision-making arrangements during their initial meetings. The final governance structure is subject to agreement and applicable law.
 
 ## 2. Candidate assessment and admission
 Expression of interest does not confer co-founder status. Candidates may be assessed on relevant skills, reliability, communication, availability, initiative and practical contribution. Any provisional appointment should have a defined scope and review date. Formal founder status must be expressly agreed in writing.
