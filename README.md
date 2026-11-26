@@ -24,13 +24,13 @@ Then visit http://localhost:8000.
 2. Confirm the founder bio and public contact email.
 3. Choose and clear the final company name; update the placeholder brand text and metadata.
 4. Review all five public working documents with the founding candidates.
-5. Replace the current mailto-based application handoff with a secure form backend before collecting applications at scale.
-6. Add a privacy notice appropriate to the final data-processing setup and applicable Kenyan law.
+5. Prepare and share the Google Sheet for candidate information only when the founder is ready to collect it.
+6. Design a privacy notice and access controls appropriate to the final data-processing setup and applicable Kenyan law.
 7. Configure a domain and static hosting after the final brand decision.
 
-## Application flow
+## Candidate information flow
 
-The interest form validates required fields in the browser and opens a prefilled email to the currently configured contact address. The applicant must review and send the email. The website does not store application data or claim that an application has been received. Do not use this as a long-term recruitment database.
+The landing page does not currently contain an application form or collect candidate information. Interested people are asked to wait until the founder shares a Google Sheet with the required questions and instructions. The sheet will support candidate evaluation and the preparation of accurate founding documents, role assignments and an appropriate website/admin-access model. Do not request or submit sensitive personal documents before a suitable process and privacy notice are in place.
 
 ## AI-assisted work
 

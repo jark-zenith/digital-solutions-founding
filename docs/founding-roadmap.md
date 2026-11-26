@@ -4,8 +4,9 @@
 ## Days 1–30 — Establish the foundation
 **Objectives:** Evaluate interested candidates and agree on the founding direction.
 
-- Collect structured introductions and expressions of interest.
-- Review skills, practical evidence, availability and motivation consistently.
+- Monitor the number of people expressing interest before setting a starting team size.
+- Prepare and share a Google Sheet for structured founder information when ready.
+- Review skills, practical evidence, availability and motivation consistently after responses are received.
 - Hold the first founding meeting and record decisions.
 - Agree the company-name selection process and shortlist.
 - Review the business concept and proposed customer segments.
@@ -13,7 +14,7 @@
 - Discuss governance, contributions, decision rights and legal pathway.
 - Select a small number of services to validate first.
 
-**Evidence of progress:** Candidate evaluation record, meeting minutes, approved concept direction, name shortlist and provisional work plan.
+**Evidence of progress:** Candidate interest overview, completed information sheet, evaluation record, meeting minutes, approved concept direction, name shortlist and provisional work plan.
 
 ## Days 31–60 — Prepare to operate
 **Objectives:** Establish a credible delivery and customer-facing foundation.

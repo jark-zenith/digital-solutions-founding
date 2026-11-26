@@ -16,10 +16,10 @@ Coordinates the formation process, communicates the initial vision, facilitates 
 | AI & Product Research | AI workflows, research, validation and prototypes | Research briefs, experiments, product prototypes |
 
 ## 3. Team size and flexibility
-The initial target is up to seven founding-team members including the original founder. Functions are areas of responsibility, not necessarily seven separate departments or guaranteed executive offices. One person may cover multiple functions until workload justifies specialization.
+No fixed founding-team size or maximum has been set. The founder will first review the level of interest and evaluate the people who come forward. The initial number of members will be decided afterward, based on relevant skills, availability, commitment, business needs and the ability to assign clear responsibilities. The functions listed above are areas of work, not reserved seats or guaranteed executive offices. One person may cover multiple functions until workload justifies specialization.
 
-## 4. Candidate evaluation
-Assess practical skills, reliability, communication, availability, initiative and willingness to learn. Use short, relevant practical tasks and structured interviews. Keep evaluation criteria consistent and explain that assessment does not guarantee admission or equity.
+## 4. Candidate information and evaluation
+The founder will share a Google Sheet when ready to collect consistent information from interested candidates. Until that sheet is shared, no detailed application form is open. Assess practical skills, reliability, communication, availability, initiative and willingness to learn. Use short, relevant practical tasks and structured interviews where appropriate. Keep evaluation criteria consistent and explain that assessment does not guarantee admission or equity.
 
 ## 5. Reporting and accountability
 Every active project should have one accountable owner, a scope, milestones, acceptance criteria and a reviewer. Team members should raise blockers early and record decisions. Customer-facing commitments require an authorized person to approve scope, timeline and price.
