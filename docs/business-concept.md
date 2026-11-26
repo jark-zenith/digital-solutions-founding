@@ -1,7 +1,7 @@
 # Business Concept Document
 **Status:** Public working draft · 26 November 2026  
 **Company name:** To be selected by the founding process  
-**Founder:** Pruden Jack Gideon — Original Founder / proposed CEO  
+**Initiator:** Pruden Jack Gideon — Founder (interim; leadership structure to be agreed)  
 **Model:** Hybrid digital services, AI solutions and proprietary technology products
 
 ## 1. Executive concept
