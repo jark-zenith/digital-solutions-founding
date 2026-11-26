@@ -18,10 +18,21 @@ Build a trusted, innovative technology company that creates practical digital so
 ## 4. Mission
 Combine skilled people, disciplined execution and responsible use of technology and AI to solve real customer problems, deliver quality work and grow sustainable digital products.
 
-## 5. Strategic pillars
-- **Digital services:** Websites, web applications, QR-code menus, digital business cards, branding, promotional content and digital marketing.
-- **AI and automation:** AI assistants, workflow automation, integrations, intelligent business systems and AI-enabled customer experiences.
-- **Proprietary products:** Research, validate, prototype and develop reusable applications, SaaS platforms and digital tools.
+## 5. Proposed service and product areas
+The following catalogue communicates the range of work the founding team intends to explore. It is not a promise that every service is immediately available. Launch priorities will depend on the skills of the selected team, validated customer demand, tools, budget and delivery capacity.
+
+- **Website development:** Business and corporate websites, landing pages, portfolios, e-commerce, hospitality and education websites, redesign, maintenance, hosting and deployment.
+- **Web applications and business systems:** Management dashboards, inventory, POS, CRM, staff and school management, booking, property management, customer portals and SaaS.
+- **QR and digital business solutions:** QR digital menus, product catalogues, digital business cards, event registration, attendance, feedback, reviews, ordering and digital brochures.
+- **AI and automation:** Chatbots, WhatsApp support, AI voice assistants, business assistants, automated bookings, workflow automation, document processing, analytics, custom agents and AI integrations.
+- **Mobile applications:** Android, iOS and cross-platform customer, business, ordering, delivery and enterprise applications.
+- **Custom software and integrations:** Tailor-made software, internal tools, APIs, backend and database systems, cloud applications, integrations and modernization.
+- **Branding and graphic design:** Logo and identity concepts, business cards, company profiles, posters, flyers, brochures, catalogues, social graphics and presentations.
+- **Digital marketing and social media:** Strategy, account support, content calendars, campaign planning, online promotion, SEO foundations and paid campaign support.
+- **Media production:** Video editing, promotional videos, short-form content, photography, motion graphics, animation and audio editing.
+- **Cloud, IT and technical support:** Cloud deployment, hosting, servers, databases, security, backups, business email, DevOps and maintenance.
+- **Research, consulting and training:** Digital transformation, process analysis, product research, feasibility studies, prototyping, technical advice and workshops.
+- **Proprietary products:** Research, validate, prototype and develop reusable applications, SaaS platforms, business tools and technology products.
 
 ## 6. Initial target markets
 1. Small and growing businesses needing digital presence or workflow improvements.
